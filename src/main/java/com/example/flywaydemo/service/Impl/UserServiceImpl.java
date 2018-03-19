@@ -1,4 +1,6 @@
 package com.example.flywaydemo.service.Impl;
 
-public class UserServiceImpl {
+import com.example.flywaydemo.service.UserService;
+
+public class UserServiceImpl implements UserService {
 }
