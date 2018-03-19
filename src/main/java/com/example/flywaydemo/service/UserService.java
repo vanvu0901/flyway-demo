@@ -2,9 +2,7 @@ package com.example.flywaydemo.service;
 
 import com.example.flywaydemo.domain.User;
 
-public class UserService {
+public interface UserService {
 
-    public createUser(User user) throw Exception {
-
-    }
+    User createUser(User user) throws Exception;
 }
