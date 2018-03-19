@@ -10,7 +10,7 @@ public class UserServiceImpl implements UserService {
 
     }
 
-  public updateUser(User user) throws Exception {
+    public User updateUser(User user) throws Exception {
 
-  }
+    }
 }
